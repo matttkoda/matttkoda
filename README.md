@@ -1,10 +1,7 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on ... Public Service and Public Policy (Emergency Management and Homeland Security)
-- 🌱 I’m currently learning ... Python
-
-- 💬 Ask me about ... Lockpicking and physical security
-
+## Hi there 👋,
+<p align="center">
+I'm a senior at ASU studying Public Service and Public Policy. With a concentration in Emergency Management and Homeland Security. I'm currently looking for jobs relating to my major in local government or private companies. I'm interested in policy writing, research, analysis, physical security, and threat/hazard mitigation. Now, I'd like to put that experience and knowledge to good use to create a better and safer future.
+</p>
 
 ## Links
 
