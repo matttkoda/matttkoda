@@ -15,7 +15,6 @@ I'm a senior at ASU studying Public Service and Public Policy. With a concentrat
     <!---new icon & link-->
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="80" height="80"/></a> 
     <!---new icon & link-->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/></a> 
 </p>
 
 ## Links
