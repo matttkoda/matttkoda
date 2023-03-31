@@ -1,7 +1,8 @@
 ## Hi there 👋,
+![](https://komarev.com/ghpvc/?username=matttkoda&color=green)
 
 ## Languages and Tools
-![](https://komarev.com/ghpvc/?username=matttkoda&color=green)
+
 
 
 <p align="center"> 
