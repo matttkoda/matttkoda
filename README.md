@@ -1,6 +1,8 @@
 ## Hi there 👋,
 
 ## Languages and Tools
+![](https://komarev.com/ghpvc/?username=matttkoda&color=green)
+
 
 <p align="center"> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80"/></a> 
